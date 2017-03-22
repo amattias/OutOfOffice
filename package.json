@@ -1,0 +1,17 @@
+{
+  "name": "OutOfOffice",
+  "version": "",
+  "description": "",
+  "keywords": ["OutOfOffice"],
+  "author": "",
+  "license": "License?",
+  "scripts": {
+    "dev": "http-server -p 8081"
+  },
+  "licenses": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  "http-server": "~0.9.0"
+  }
+}
